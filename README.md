@@ -1,8 +1,8 @@
 # EXP NO : 3
 # Correlation and regression for data analysis
-# NAME : Suman
+# NAME : V DEEPAK KUMAR
 # DATE : 28/03/2025
-# REG NO : 212223240163
+# REG NO : 212224240029
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
